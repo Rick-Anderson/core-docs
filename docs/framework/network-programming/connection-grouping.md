@@ -29,3 +29,13 @@ Connection grouping associates specific requests within a single application to 
 ## See Also  
  [Managing Connections](../../../docs/framework/network-programming/managing-connections.md)  
  [How to: Assign User Information to Group Connections](../../../docs/framework/network-programming/how-to-assign-user-information-to-group-connections.md)
+
+### Additional Resources
+
+* <xref:System.Net.ServicePointManager> 
+* <xref:System.Net.ServicePointManager.SecurityProtocol>
+* <xref:System.Net.SecurityProtocolType.SystemDefault>
+* <xref:System.Net.Security.SslStream>
+* <xref:System.Security.Authentication.SslProtocols>
+* <xref:System.Security.Authentication.SslProtocols.None>.
+* <xref:System.Security.Authentication.SslProtocols.Default> 
