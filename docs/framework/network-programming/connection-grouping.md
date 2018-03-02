@@ -29,3 +29,5 @@ Connection grouping associates specific requests within a single application to 
 ## See Also  
  [Managing Connections](../../../docs/framework/network-programming/managing-connections.md)  
  [How to: Assign User Information to Group Connections](../../../docs/framework/network-programming/how-to-assign-user-information-to-group-connections.md)
+
+### Additional Resources
